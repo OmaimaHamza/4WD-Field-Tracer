@@ -1,9 +1,10 @@
 # 4WD-Field-Tracer
 4WD robot car that automatically draws a football field at 1/60 scale
-## GOal
+## Goal
 ...
 ## Hardware
-<img width="737" height="620" alt="image" src="https://github.com/user-attachments/assets/5a2a7598-8d81-4424-a51a-32210a1226b0" />  
+<img width="737" height="620" alt="image" src="https://github.com/user-attachments/assets/5a2a7598-8d81-4424-a51a-32210a1226b0" />
+
 | Component | Model |
 |-----------|-------|
 | Microcontroller | Arduino Uno R3 |
